@@ -26,4 +26,4 @@ Para a automatização dos cenários, foi utilizado o framework Cypress:
 
  'O código da automação dos cenários esta arquivado dentro das pastas cypress/integration'
 
- 'Para rodar os testes você deve estar dentro da pasta 3Automation e rodar o seguinte comando no terminal: npm run open'
+ 'Para rodar os testes você deve estar dentro da pasta 3.Automation e rodar o seguinte comando no terminal: npm run open'
