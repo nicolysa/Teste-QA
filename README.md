@@ -1,14 +1,18 @@
 # Teste técnico QA - Frente Corretora 
 ##  1 - Planning
-Depois de avaliar a home do blog da Frente Corretora, foram feitos 29 casos de testes para validação.
-Os casos foram escritos em arquivos .features que são gerados pelo Cucumber.
+Foi escrito utilizando Gherkin que é uma
+linguagem para a escrita de BDD.
+BDD é o desenvolvimento orientado pelo comportamento.
+(Comportamento do usuário quando ele estiver usando
+alguma aplicação e suas funcionalidades.).
 
 ## 2 - Execution
 Os testes foram feitos de forma manual, utilizando Google Chrome, Edge e Firefox como navegadores.
 Também há anexado uma planilha excell com os resultados dos testes realizados e sugestões de melhorias.
 
 ## 3 - Automation
-Para a automatização dos cenários, foi utilizado o framework Cypress:
+ Foi utilizado o framework Cypress, utilizando
+a linguagem JavaScript:
 
 1- Instalar NodeJs:
 
